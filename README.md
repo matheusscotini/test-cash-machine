@@ -1,5 +1,11 @@
 <h1> Simulador de Caixa Eletrônico </h1>
 
+```sh
+Nodejs 16.4
+Jest 27.0
+Swagger 4.1
+```
+
 Simulador de um caixa eletrônico, entregando as notas para o cliente, com as seguintes condições:
 - Entregar o menor número de notas;
 - É possível sacar o valor solicitado com as notas disponíveis;
